@@ -1,1 +1,3 @@
-# This is my Local Repo for practice
+# Welcome to LocalRepo
+
+This is my first Git Repository.
